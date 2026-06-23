@@ -19,3 +19,4 @@ those facts.
 - `FAQ_GITHUB_REPO=IkboljonMe/elithome-faq`
 - `FAQ_GITHUB_PATH=faq`
 - `FAQ_GITHUB_TOKEN=<read-only token>`
+# elithome-faq
