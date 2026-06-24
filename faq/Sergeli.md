@@ -9,7 +9,7 @@ updated: 2026-06-24
 Sergeli tumanidagi mavjud kvartiralar (namuna ma'lumot — haqiqiy ro'yxat bilan almashtiring):
 
 ## 1-xonali
-- 40 m², 3/9-qavat, ta'mirsiz. Narx: 38 000 $. Status: bo'sh.
+- 49 m², 3/9-qavat, ta'mirsiz. Narx: 38 000 $. Status: bo'sh.
 - 44 m², 5/9-qavat, o'rta ta'mir. Narx: 45 000 $. Status: bo'sh.
 
 ## 2-xonali
