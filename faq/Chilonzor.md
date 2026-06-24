@@ -9,7 +9,7 @@ updated: 2026-06-24
 Chilonzor tumanidagi mavjud kvartiralar (namuna ma'lumot — haqiqiy ro'yxat bilan almashtiring):
 
 ## 1-xonali
-- 38 m², 2/5-qavat, o'rta ta'mir. Narx: 47 000 $. Status: bo'sh.
+- 48 m², 2/5-qavat, o'rta ta'mir. Narx: 47 000 $. Status: bo'sh.
 
 ## 2-xonali
 - 55 m², 6/9-qavat, yangi ta'mir. Narx: 70 000 $. Status: bo'sh.
